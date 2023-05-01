@@ -1,2 +1,2 @@
 # practiceHtmlCss
-practice
+practice of HTML&CSS
