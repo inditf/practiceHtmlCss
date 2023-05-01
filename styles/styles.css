@@ -9,7 +9,7 @@ header {
     background-image: url("../images/main_img.jpg");
     background-repeat: round;
     object-fit: cover;
-    height: 480px;
+    height: 500px;
     flex-flow: row;
 }
 
@@ -68,16 +68,15 @@ nav li a {
     background-color: grey;
 }
 
-nav li a:active {
-    color: black;
-    background-color: white;
-}
-
 nav li a:hover {
     color: white;
     background-color: black;
 }
 
+nav li a:active {
+    color: black;
+    background-color: white;
+}
 
 /* 欢迎词 */
 .headerBottomDiv {
@@ -246,6 +245,5 @@ footer {
 }
 
 .footerLinks a:hover {
-    color: black;
-    text-decoration: underline;
-}
+    color: white;
+    }
