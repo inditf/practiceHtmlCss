@@ -20,9 +20,11 @@ header {
 
 .headerTopDiv {
     height: 80px;
+    width: 100%;
     display: flex;
     background-color: rgba(0, 0, 0, 0.5);
     justify-content: space-between;
+    position: fixed;
 }
 
 
