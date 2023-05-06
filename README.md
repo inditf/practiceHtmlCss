@@ -1,6 +1,6 @@
 # practice of HTML&CSS
-practice of HTML&CSS
-Deployed by [GitHub Pages](https://inditf.github.io/practiceHtmlCss/)
+practice of HTML&CSS  
+## [Deployed by GitHub Pages](https://inditf.github.io/practiceHtmlCss/)
 ### 练习：按照 ife_2021_st_01.jpg (opens new window)所示，完成静态页面的布局及样式开发，建议要求包含：
 1. 不使用任何上层封装的第三方类、库、框架
 2. 不需要按设计稿严格 1:1 实现，但请尽量保证和设计稿的基本一致性
